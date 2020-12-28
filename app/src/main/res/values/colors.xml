@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="wight">#FFFFFF</color>
+
+
+    <color name="colorStartPage">#64CFEF</color>
+    <color name="real_meat">#1F23F6</color>
+    <color name="real_vegan">#2528F6</color>
+
+    <color name="ideal_meat">#49EF44</color>
+    <color name="ideal_vegan">#40F13A</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="exp">#C9F89F</color>
+
+    <color name="background">#020202</color>
+    <color name="background2">#A8A8A8</color>
+    <color name="background3">#939191</color>
+
+    <color name="first">#03DAC5</color>
+    <color name="second">#ED73AC</color>
+    <color name="therd">#4882F6</color>
+
+</resources>

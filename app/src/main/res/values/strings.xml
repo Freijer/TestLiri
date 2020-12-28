@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">TestLiri</string>
+    <string name="enter">Начать тест</string>
+
+    <string name="actual">  Я актульное  </string>
+    <string name="ideal">   Я идеальное  </string>
+
+    <string name="start">Я-настоящий</string>
+    <string name="startIdeal">Я-идеальный</string>
+
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+
+    <string name="meat">Нормальный</string>
+    <string name="vegan">Веган</string>
+
+    <string name="param_1_text_1">Реальное</string>
+    <string name="param_1_text_2">Идеальное</string>
+
+    <string name="param_2_text_1">Реальное</string>
+    <string name="param_2_text_2">Идеальное</string>
+
+
+</resources>
+
+
